@@ -1,0 +1,6 @@
+C:\Users\zeljk\Desktop\DataWpf\DataWpf.Model\bin\Debug\DataWpf.Model.dll
+C:\Users\zeljk\Desktop\DataWpf\DataWpf.Model\bin\Debug\DataWpf.Model.pdb
+C:\Users\zeljk\Desktop\DataWpf\DataWpf.Model\obj\Debug\DataWpf.Model.csprojAssemblyReference.cache
+C:\Users\zeljk\Desktop\DataWpf\DataWpf.Model\obj\Debug\DataWpf.Model.csproj.CoreCompileInputs.cache
+C:\Users\zeljk\Desktop\DataWpf\DataWpf.Model\obj\Debug\DataWpf.Model.dll
+C:\Users\zeljk\Desktop\DataWpf\DataWpf.Model\obj\Debug\DataWpf.Model.pdb

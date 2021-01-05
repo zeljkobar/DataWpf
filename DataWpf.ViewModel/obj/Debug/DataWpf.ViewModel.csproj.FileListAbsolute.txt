@@ -1,0 +1,9 @@
+C:\Users\zeljk\Desktop\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.ViewModel.dll
+C:\Users\zeljk\Desktop\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.ViewModel.pdb
+C:\Users\zeljk\Desktop\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.Model.dll
+C:\Users\zeljk\Desktop\DataWpf\DataWpf.ViewModel\bin\Debug\DataWpf.Model.pdb
+C:\Users\zeljk\Desktop\DataWpf\DataWpf.ViewModel\obj\Debug\DataWpf.ViewModel.csprojAssemblyReference.cache
+C:\Users\zeljk\Desktop\DataWpf\DataWpf.ViewModel\obj\Debug\DataWpf.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\zeljk\Desktop\DataWpf\DataWpf.ViewModel\obj\Debug\DataWpf.ViewModel.csproj.CopyComplete
+C:\Users\zeljk\Desktop\DataWpf\DataWpf.ViewModel\obj\Debug\DataWpf.ViewModel.dll
+C:\Users\zeljk\Desktop\DataWpf\DataWpf.ViewModel\obj\Debug\DataWpf.ViewModel.pdb
